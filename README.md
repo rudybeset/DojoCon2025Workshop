@@ -26,4 +26,4 @@ https://cables.gl/standalone  (Cables offline applicatie)
 
 Download [hier](https://github.com/rudybeset/DojoCon2025Workshop/blob/main/cables_Start_van_een_project.zip) de patch om direct te starten met de basis.
 
-Ga naar https://cables.gl/mypatches(https://cables.gl/mypatches) en klik op "import project" om de patch/zipfile direct te gebruiken.
+Ga naar [https://cables.gl/mypatches](https://cables.gl/mypatches) en klik op "import project" om de patch/zipfile direct te gebruiken.
