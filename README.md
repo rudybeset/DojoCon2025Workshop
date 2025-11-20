@@ -21,10 +21,7 @@ https://cables.gl/standalone  (Cables offline applicatie)
 
 ## Goede basis-ops om je project te starten
 
-### mainloop
-### performance
-### Orbitcontrols
-### triggerbutton
-### sequence
-
 <img width="368" height="298" alt="basispatch" src="https://github.com/user-attachments/assets/60562d5b-b895-4b2d-b066-3c181e7c0012" />
+
+Download [deze](https://github.com/rudybeset/DojoCon2025Workshop/blob/main/cables_Start_van_een_project.zip) patch om direct te starten met de basis.
+Ga naar https://cables.gl/mypatches(https://cables.gl/mypatches) en klik op "import project" om de patch/zipfile direct te gebruiken.
