@@ -19,7 +19,7 @@ https://decode.gl/ (Creative coding met cables site)
 
 https://cables.gl/standalone  (Cables offline applicatie)
 
-## Goede basis-ops om je project te starten
+## Goede basispatch om je project te starten
 
 <img width="368" height="298" alt="basispatch" src="https://github.com/user-attachments/assets/60562d5b-b895-4b2d-b066-3c181e7c0012" />
 
